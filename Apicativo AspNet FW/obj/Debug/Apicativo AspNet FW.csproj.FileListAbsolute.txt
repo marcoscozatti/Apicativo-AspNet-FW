@@ -1,0 +1,76 @@
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Apicativo AspNet FW.dll.config
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Apicativo AspNet FW.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Apicativo AspNet FW.pdb
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csc.exe
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csc.exe.config
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csc.rsp
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csi.exe
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csi.exe.config
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\csi.rsp
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.Managed.Core.targets
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.AppContext.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Collections.Immutable.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Console.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Globalization.Calendars.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.IO.Compression.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.IO.Compression.ZipFile.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.IO.FileSystem.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Net.Http.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Net.Sockets.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Reflection.Metadata.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.ValueTuple.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Xml.XmlDocument.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Xml.XPath.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\vbc.exe
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\vbc.exe.config
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\vbc.rsp
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\VBCSCompiler.exe
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\roslyn\VBCSCompiler.exe.config
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Antlr3.Runtime.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\AspNet.ScriptManager.bootstrap.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\AspNet.ScriptManager.jQuery.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.ScriptManager.WebForms.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.Web.Infrastructure.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Newtonsoft.Json.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\System.Web.Optimization.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\WebGrease.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\System.Web.Optimization.xml
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Newtonsoft.Json.xml
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Antlr3.Runtime.pdb
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\pt-br\System.Web.Optimization.resources.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\obj\Debug\Apicativo AspNet FW.csprojAssemblyReference.cache
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\obj\Debug\Apicativo AspNet FW.csproj.CoreCompileInputs.cache
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\obj\Debug\Apicativo AspNet FW.csproj.CopyComplete
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\obj\Debug\Apicativo AspNet FW.dll
+c:\temp\Apicativo AspNet FW\Apicativo AspNet FW\Apicativo AspNet FW\obj\Debug\Apicativo AspNet FW.pdb
